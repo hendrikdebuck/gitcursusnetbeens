@@ -1,6 +1,6 @@
 <?php
     // put your code here
-    echo'YOLO for everybody!!';
+    echo'YOLO for the entire world!!';
 ?>
 
 
