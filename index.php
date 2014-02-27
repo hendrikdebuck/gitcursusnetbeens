@@ -1,6 +1,6 @@
 <?php
     // put your code here
-    echo'YOLO bien zure!';
+    echo'YOLO for everybody!!';
 ?>
 
 
